@@ -1,6 +1,6 @@
-# whatsapp_ui
+# Whatsapp_UI
 
-A new Flutter application.
+Whatsapp UI Design using Flutter.
 
 ## Getting Started
 
